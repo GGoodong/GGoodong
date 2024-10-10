@@ -35,6 +35,3 @@
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 </br>
-
-> **Contacts**
-- donggu5654@naver.com
