@@ -20,12 +20,14 @@
 - 🏆 제4회 중앙대학교 데이터 분석 공모전 최우수상
 - 🏆 제4회 중앙대학교 경영경제대학 학술제 우수상
 - 🏆 제1회 KATCH Research Challenge 대상
+</br>
 
 > **Certificate**
 - ADsP
 - SQLD
 - 사회조사분석사 2급
 - 컴퓨터활용능력 1급
+</br>
 
 > **Tech Stack**
 
