@@ -30,11 +30,6 @@
 </br>
 
 > **Tech Stack**
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-4479A1?logo=C&logoColor=white"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white"> <img src="https://img.shields.io/badge/SPSS-3B5998?logo=IBM&logoColor=white">
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
-</br>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"> 
 <img src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white"> 
@@ -43,3 +38,4 @@
 <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+</br>
